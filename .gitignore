@@ -16,3 +16,13 @@ FrankenBoy/Library/ScriptAssemblies/
 FrankenBoy/Library/
 
 *.meta
+
+FrankenBoy/.vs/FrankenBoy/v16/.suo
+
+FrankenBoy/.vs/FrankenBoy/v16/Server/sqlite3/db.lock
+
+FrankenBoy/.vs/FrankenBoy/v16/Server/sqlite3/storage.ide
+
+FrankenBoy/.vs/FrankenBoy/v16/Server/sqlite3/storage.ide-shm
+
+FrankenBoy/.vs/FrankenBoy/v16/Server/sqlite3/storage.ide-wal
